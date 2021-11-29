@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FrozenTableView.qml</file>
+        <file>TableViewHeaderCell.qml</file>
+        <file>TableViewCell.qml</file>
+    </qresource>
+</RCC>
